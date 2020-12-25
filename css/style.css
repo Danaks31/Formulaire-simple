@@ -1,0 +1,5 @@
+.errorMessage, .invalidLenghtPass2,.invalidLenghtPass, .invalidLenghtNickname, .lenghtIsNullMessage, .lengthNullnickname, .lengthNullpass, .lengthNullpass2, .lengthNullemail {
+    color: red;
+    font-weight: bold;
+    display: none;
+}
